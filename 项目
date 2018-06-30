@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
    cout << "Hello World"<<"这是老司机修改的"<<endl;
+    cout << "Hello World"<<"这是老司机修改的"<<endl;
    return 0;
 }
